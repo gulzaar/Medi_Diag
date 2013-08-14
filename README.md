@@ -1,17 +1,17 @@
-                        =-=-=-=-=-=-=-=-=-=-=-=-=-=-
- 	      Welcome to the			                           Welcome to the 
-              Diagnosis of Breast Cancer using Neural Network Approach Page!
-                        -=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                        			=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ 				                            Welcome to the 
+                        	Diagnosis of Breast Cancer using Neural Network Approach Page!
+                        			-=-=-=-=-=-=-=-=-=-=-=-=-=-=
  
  
  ### Introduction
-
+  ~~~~~~~~~~~~
  This Project aim  to develop an application for pattern classification of cancerous and 
  non-cancerous tumor cells by implementing artificial neural network
  	
    App. features include:
  
-     *  Highly sophisticated, C++ application operating on the minimal 10 characteristics 
+     *  Highly sophisticated, C   application operating on the minimal 10 characteristics 
          of classified inputs obtained from the 
  
      *  Overall accuracy of app. is 96.34%. It is tested on based of 683 sample.
@@ -19,8 +19,8 @@
      *  Simple to Use Console interface.
  
  
-  ### Documentation cum Project Report
-
+ ### Documentation cum Project Report
+  ~~~~~~~~~~~~~~~~~~~~~~~~
  
  You can download  development builds from the folder "builds" ...
  
@@ -41,7 +41,9 @@
  Also more information of attribute are avail at the following link...
  www.archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data
  
- Project Reports and Documentation is available at :
+ 
+  Project Reports and Documentation is available at :
+ 
  
  ### Support or Contact
  
